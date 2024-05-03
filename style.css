@@ -1,0 +1,32 @@
+body {
+  background-color: palevioletred;
+}
+
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 80px;
+}
+
+.profileImage {
+  width: 200px;
+}
+
+.biodata {
+  background-color: #fff;
+  padding-top: 55px;
+}
+.row {
+  padding: 0px 20px;
+}
+
+.achievement {
+  padding-top: 55px;
+}
+
+
+
+
+
